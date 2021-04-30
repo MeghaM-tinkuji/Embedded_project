@@ -1,4 +1,3 @@
-# Embedded_project
 # embedded_c
 |CppCheck|Build|
 |:--:|:--:|

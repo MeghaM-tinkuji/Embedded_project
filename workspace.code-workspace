@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "embedded_c"
+		},
+		{
+			"name": "Embedded_project",
+			"path": "Embedded_project"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"io.h": "c"
+		}
+	}
+}
